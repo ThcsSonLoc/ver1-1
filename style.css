@@ -1112,8 +1112,3 @@ img {
     gap: 8px;
   }
 }
-#picture-quiz .pq-board::after,
-#picture-quiz .pq-board::before {
-  display: none !important;
-  content: none !important;
-}
